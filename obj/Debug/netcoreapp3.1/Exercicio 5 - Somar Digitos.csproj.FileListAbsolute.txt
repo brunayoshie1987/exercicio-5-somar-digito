@@ -1,0 +1,13 @@
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.exe
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.deps.json
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.runtimeconfig.json
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.runtimeconfig.dev.json
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.dll
+C:\repo\Exercicio 5 - Somar Digitos\bin\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.pdb
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.csprojAssemblyReference.cache
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.AssemblyInfoInputs.cache
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.AssemblyInfo.cs
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.csproj.CoreCompileInputs.cache
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.dll
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.pdb
+C:\repo\Exercicio 5 - Somar Digitos\obj\Debug\netcoreapp3.1\Exercicio 5 - Somar Digitos.genruntimeconfig.cache
